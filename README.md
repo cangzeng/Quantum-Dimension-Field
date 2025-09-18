@@ -16,7 +16,7 @@ A.  Quantum Dimensional Field A; Dynamic Dimensional Fields in Quantum Topologic
 
 B.  Quantum Dimensional Field B: Braided Group Structure of Quantum Spacetime.
 
-C.  Gravity is Not a Fundamental Force C; Manifestations of Gravity and the Other Three Forces Inside Black Holes.
+C.  Quantum Dimensional Field C: Unified Fiber Bundle Theory of Quantum Spacetime Backgrounds
 
 D.  Gravity is Not a Fundamental Force D; Quantum Entanglement and Spacetime Entropic Force.
 
@@ -38,7 +38,7 @@ F.  Gravity is Not a Fundamental Force F; Quantum Complexity as the Emergence of
  Topological order classification|
 | [Quantum Dimensional Field B: Braided Group Structure of Quantum Spacetime.](https://doi.org/10.5281/zenodo.16788589) |Zhou Changzheng, Zhou Ziqing | 2025  |  Quantum spacetime, Braid group, Dimension renormalization, Fractal geometry, Quantum gravity, Topological field theory, Primordial gravitational waves,
  Quantum Hall effect|
-| [Gravity is Not a Fundamental Force C; Manifestations of Gravity and the Other Three Forces Inside Black Holes.](https://doi.org/10.5281/zenodo.17115757) |  Zhou Changzheng,Zhou Ziqing| 2025 |  Gravity; Emergence; Holographic Principle; Entropic Force; Cosmology; Black Holes|
+| [Quantum Dimensional Field C: Unified Fiber Bundle Theory of Quantum Spacetime Backgrounds](https://doi.org/10.5281/zenodo.16788914) |  Zhou Changzheng,Zhou Ziqing| 2025 |   Dynamic dimension field; Categorical fiber bundle; Quantum connection conservation; Dimensional renormalization; Falsifiable experiment|
 | [Gravity is Not a Fundamental Force D; Quantum Entanglement and Spacetime Entropic Force.](https://doi.org/10.5281/zenodo.17115865) |Zhou Changzheng, Zhou Ziqing | 2025| Emergent Gravity, Quantum Entanglement, Holographic Principle, Entropic Force, Spacetime Thermodynamics|
 | [Gravity is Not a Fundamental Force E; Emergent Gravity Theory Based on Quantum Mutual Information and Holographic Duality]( https://doi.org/10.5281/zenodo.17115873) |  Zhou Changzheng,Zhou Ziqing| 2025 |  Gravity; Emergence; Holographic Principle; Entropic Force; Cosmology; Black Holes|
 | [Gravity is Not a Fundamental Force F; Quantum Complexity as the Emergence of Spacetime and Gravity.](https://doi.org/10.5281/zenodo.17118732) |Zhou Changzheng, Zhou Ziqing | 2025|Emergent gravity, Quantum mutual information, Holographic duality, Quantum many-body systems, Quantum information geometry|
